@@ -1,0 +1,72 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.about_main_div {
+    border: 1px solid #f54242;
+    padding-left:0px;
+    padding-right:0px; 
+    float: none;
+}
+.about_main_div img{
+ width:100%;    
+}
+
+.about_main_div hr{
+    width:200px;
+}
+
+
+.about_main_div h5,.about_main_div p{
+   margin-left: 20px;
+}
+.campus_life
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.campus_life i
+{
+float: right;
+}
+
+
+.updates_li
+{
+  margin-top: 13px;
+}
+
+.updates_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.updates_li img
+{
+  border-radius: 25px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
+
